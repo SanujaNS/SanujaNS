@@ -8,9 +8,8 @@
 
 ### Badges:-
 
-<p>
+![IPv6 Certification Badge for sanujaput](//ipv6.he.net/certification/create_badge.php?pass_name=sanujaput&amp;badge=3)
 <img src="//ipv6.he.net/certification/create_badge.php?pass_name=sanujaput&amp;badge=3" style="border: 0; width: 229px; height: 137px" alt="IPv6 Certification Badge for sanujaput"></img>
-</p>
 
 <!---
 SanujaNS/SanujaNS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
