@@ -8,8 +8,7 @@
 
 ### Badges:-
 
-![IPv6 Certification Badge for sanujaput](//ipv6.he.net/certification/create_badge.php?pass_name=sanujaput&amp;badge=3)
-<img src="//ipv6.he.net/certification/create_badge.php?pass_name=sanujaput&amp;badge=3" style="border: 0; width: 229px; height: 137px" alt="IPv6 Certification Badge for sanujaput"></img>
+![IPv6 Certification Badge for sanujaput]([//ipv6.he.net/certification/create_badge.php?pass_name=sanujaput&amp;badge=3](https://github.com/SanujaNS/SanujaNS/blob/df25cd43152b40b7c810c916272c0ba06b1d74fc/create_badge.png))
 
 <!---
 SanujaNS/SanujaNS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
