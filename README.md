@@ -4,7 +4,7 @@
 - 👀 I’m interested in 'Nothing'....
 - So I'm enjoying 'everything'....
 - Just enjoy your life, You don't know what will come.
-- 📫 Reach me at Telegram [@SanujaNS](https://t.me/SanujaNS) or Look at my website [Contact Me](https://sanuja.biz/connect-me/) section.
+- 📫 Reach me at Telegram [@SanujaNS](https://t.me/SanujaNS) or look at my website [Contact Me](https://sanuja.biz/connect-me/) section.
 
 <!---
 SanujaNS/SanujaNS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
