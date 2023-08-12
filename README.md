@@ -4,7 +4,9 @@
 - 👀 I’m interested in 'Nothing'....
 - So I'm enjoying 'everything'....
 - Just enjoy your life, You don't know what will come.
-- 📫 Reach me at Telegram [@SanujaNS](https://t.me/SanujaNS) or look at my website [Contact Me](https://sanuja.biz/connect-me/) section.
+- Face it head-on.
+
+> 📫 Reach me at Telegram [@SanujaNS](https://t.me/SanujaNS) or look at my website [Contact Me](https://sanuja.biz/connect-me/) section.
 
 ### Badges:-
 
