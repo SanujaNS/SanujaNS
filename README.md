@@ -24,7 +24,7 @@ Tech Geek | Nerd | Intermediate Knowledge in Cybersecurity | Interest in Bug Bou
 
 <b>My GitHub Stats</b>
 
-[![SanujaNS's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/SanujaNS?cardType=github&theme=dracula&preferLogin=false)](https://git.io/awesome-stats-card)
+[![SanujaNS's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/SanujaNS?cardType=level-alternate&theme=github-dark&preferLogin=false)](http://www.github.com/SanujaNS)
 
 <a href="http://www.github.com/SanujaNS"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SanujaNS&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
