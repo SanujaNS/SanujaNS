@@ -27,7 +27,7 @@ Tech Geek | Nerd | Intermediate Knowledge in Cybersecurity | Interest in Bug Bou
 
 [![SanujaNS's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/SanujaNS?cardType=level-alternate&theme=github-dark&preferLogin=false)](https://www.github.com/SanujaNS)
 
-[![SanujaNS's Current Streak Number](https://github-readme-streak-stats.herokuapp.com/?user=SanujaNS&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://www.github.com/SanujaNS)
+[![SanujaNS's Current Streak Number](https://streak-stats.demolab.com?user=SanujaNS&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://www.github.com/SanujaNS)
 
 [![SanujaNS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanujaNS&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://www.github.com/SanujaNS)
 
