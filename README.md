@@ -1,6 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-My name is Sanuja Seneviratne [@SanujaNS](https://github.com/SanujaNS)
-==========================================================================================================================================
+![My Name](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:866cea,100:0e0430&text=I%27m%20Sanuja%20Seneviratne&animation=fadeIn&fontColor=cec9df)
+
+
 Cyber Security Student and Hobby Developer
 ------------------------------------------
 Tech Geek | Nerd | Intermediate Knowledge in Cybersecurity | Interest in Bug Bounty Hunting and Penetration Testing | Full Stack Web Developer (Still Learning)
